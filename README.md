@@ -1,8 +1,8 @@
 # _Your Resort_
 
-#### By _**{Kymani and Thomas}**_
+#### By _**Kymani and Thomas**_
 
-#### _{A simple brochure-style website for a Resort}_
+#### _A simple brochure-style website for a Resort_
 
 ## Technologies Used
 
@@ -12,7 +12,7 @@
 
 ## Description
 
-_{This is a brochure-style webpage made for an Epicodus assignment. The goal was to make a website for a resort developer to entice potential travellers. In order to make this version, we needed to know how to branch and merge different code projects. I think it turned out great!}_
+_This is a brochure-style webpage made for an Epicodus assignment. The goal was to make a website for a resort developer to entice potential travellers. In order to make this version, we needed to know how to branch and merge different code projects. I think it turned out great!_
 
 ## Setup/Installation Requirements
 
