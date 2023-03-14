@@ -1,37 +1,30 @@
-# _{Application Name}_
+# _Your Resort_
 
-#### By _**{List of contributors}**_
+#### By _**{Kymani and Thomas}**_
 
-#### _{Brief description of application}_
+#### _{A simple brochure-style website for a Resort}_
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* HTML
+* CSS
+* Flexbox
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_{This is a brochure-style webpage made for an Epicodus assignment. The goal was to make a website for a resort developer to entice potential travellers. In order to make this version, we needed to know how to branch and merge different code projects. I think it turned out great!}_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+* _Clone this repository to your desktop._
+* _Navigate to the top level of the directory._
+* _Open tm/new-project-resort-website.html in your browser._
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* The links to the various accomodations don't go anywhere.
+* Text just slightly misaligned.
 
 ## License
-
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
-
-Copyright (c) _date_ _author name(s)_
+We don't need no stinkin license!
+Copyright (c) _2023_ _Kymani Stephens and Thomas McDowell_
